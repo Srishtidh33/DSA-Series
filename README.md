@@ -65,7 +65,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 ## 💼 About Me
 
 I’m a BTech student passionate about problem-solving, AI, and backend development.  
-Connect with me on [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/srishti-dhillon-180921243/) | [GitHub](https://github.com/Srishtidh33)  
 *(Update your real links here)*
 
 ---
