@@ -45,7 +45,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array             | Reverse Nodes in k-Group                | Hard       | https://leetcode.com/problems/reverse-nodes-in-k-group/description/                                                    |
 |   | Array             | Kadane's Algorithm                      | Medium     | https://leetcode.com/problems/maximum-subarray/description/                                                            |
 |   | Array             | CSUMQ                                   | Medium     | https://docs.google.com/document/d/1ICDsRE5JKO9zAfDqlUz91tlkDT5pfWW3-DlMRSjTJjI/edit?usp=sharing                       |
-|   | Array             | Contains Duplicate                      | Easy       | https://leetcode.com/problems/contains-duplicate/submissions/                                                        |
+|   | Array             | Contains Duplicate                      | Easy       | https://leetcode.com/problems/contains-duplicate/submissions/                                                          |
 |   | Array             | Exceptionally Odd                       | Basic      | https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1                                                    |
 |   | Array             | Majority Element                        | Easy       | https://leetcode.com/problems/majority-element/                                                                        |
 |   | Array             | Missing Number                          | Easy       | https://leetcode.com/problems/missing-number/submissions/1665146186/                                                   |
@@ -55,6 +55,10 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array             | Best Time to Buy and Sell Stock         | Easy       | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/                                             |
 |   | Array             | Best Time to Buy and Sell Stock -II     | Medium     | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1667565685/                               |
 |   | Array             | Two Sum                                 | Easy       | https://leetcode.com/problems/two-sum                                                                                  |->done
+|   | Array             | Is Subsequence                          | Easy       | https://leetcode.com/problems/is-subsequence/submissions/1664711168/                                                   |
+|   | String            | Permutation in String                   | Medium     | https://leetcode.com/problems/permutation-in-string/submissions/1668638651/                                            |->done
+|   | Array             | Maximum Product Subarray                | Medium     | https://leetcode.com/problems/maximum-product-subarray/submissions/1668662045/                                         |->done
+
 
 
 
