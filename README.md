@@ -14,7 +14,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 | 1 | Matrix            | Set Matrix Zeroes                       | Easy       | https://leetcode.com/problems/set-matrix-zeroes/description/                                                           |
 | 2 | Array             | Reverse an array                        | Easy       | https://docs.google.com/document/d/1ICDsRE5JKO9zAfDqlUz91tlkDT5pfWW3-DlMRSjTJjI/edit?usp=sharing                       |            
 |   | String            | Remove Duplicate from Char              | Easy       | https://docs.google.com/document/d/1ICDsRE5JKO9zAfDqlUz91tlkDT5pfWW3-DlMRSjTJjI/edit?usp=sharing                       |   
-|   | String            | Subsequence of a String                 | Easy       | https://leetcode.com/problems/is-subsequence/submissions/                                                              | ->✔   
+|   | String            | Subsequence of a String                 | Easy       | https://leetcode.com/problems/is-subsequence/submissions/                                                              |   
 |   | String            | Generate Valid Palindrome               | Medium     | https://leetcode.com/problems/generate-parentheses/description/                                                        |  
 |   | String            | Power set                               | Medium     | https://www.geeksforgeeks.org/problems/power-set4302/1                                                                 | -> to do
 |   | String            | Longest Substring                       | Medium     | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/                              |
@@ -45,10 +45,16 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array             | Reverse Nodes in k-Group                | Hard       | https://leetcode.com/problems/reverse-nodes-in-k-group/description/                                                    |
 |   | Array             | Kadane's Algorithm                      | Medium     | https://leetcode.com/problems/maximum-subarray/description/                                                            |
 |   | Array             | CSUMQ                                   | Medium     | https://docs.google.com/document/d/1ICDsRE5JKO9zAfDqlUz91tlkDT5pfWW3-DlMRSjTJjI/edit?usp=sharing                       |
-|   | Array             | Contains Duplicate                      | Easy       | https://leetcode.com/problems/contains-duplicate/description/                                                          |->✔
-|   | Array             | Exceptionally Odd                       | Basic      | https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1                                                    |->✔
+|   | Array             | Contains Duplicate                      | Easy       | https://leetcode.com/problems/contains-duplicate/submissions/                                                        |
+|   | Array             | Exceptionally Odd                       | Basic      | https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1                                                    |
 |   | Array             | Majority Element                        | Easy       | https://leetcode.com/problems/majority-element/                                                                        |
-|   | Array             | Missing Number                          | Easy       | https://leetcode.com/problems/missing-number/submissions/1665146186/                                                   |->✔
+|   | Array             | Missing Number                          | Easy       | https://leetcode.com/problems/missing-number/submissions/1665146186/                                                   |
+|   | Array             | Chocolate Distribution Problem          | Easy       | https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1                                            |
+|   | Array             | Sliding Window Maximum                  | Hard       | https://leetcode.com/problems/sliding-window-maximum/submissions/1667058225/                                           |
+|   | Array             | Equilibrium Point                       | Easy       | https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1                                                  |
+|   | Array             | Best Time to Buy and Sell Stock         | Easy       | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/                                             |
+|   | Array             | Best Time to Buy and Sell Stock -II     | Medium     | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1667565685/                               |
+|   | Array             | Two Sum                                 | Easy       | https://leetcode.com/problems/two-sum                                                                                  |->done
 
 
 
@@ -57,7 +63,8 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 
 
 
-> 💡 *More solutions coming soon... stay tuned!*
+
+> 💡 *More solutions are coming soon... stay tuned!*
 
 ---
 
