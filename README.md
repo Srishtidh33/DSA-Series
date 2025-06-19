@@ -21,7 +21,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | String            | Permutation in String                   | Medium     | https://leetcode.com/problems/permutation-in-string/                                                                   | -> to do
 |   | Array             | Subsets                                 | Medium     | https://leetcode.com/problems/subsets/description/                                                                     | 
 |   | Array             | Subsets-II                              | Medium     | https://leetcode.com/problems/subsets-ii/description/                                                                  |  
-|   | Array             | Permutation                             | Medium     | https://leetcode.com/problems/permutations/description/                                                                |            
+|   | Array             | Permutation                             | Medium     | https://leetcode.com/problems/permutations/description/                                                                |           
 |   | String            | Letter Combinations of a Phone Number   | Medium     | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/                                       | 
 |   | Matrix            | Checkif Word Can Be Placed In Crossword | Medium     | https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/                                    | -> to do
 |   | Matrix            | N-Queens                                | Hard       | https://leetcode.com/problems/n-queens/description/                                                                    |
@@ -54,10 +54,11 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array             | Equilibrium Point                       | Easy       | https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1                                                  |
 |   | Array             | Best Time to Buy and Sell Stock         | Easy       | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/                                             |
 |   | Array             | Best Time to Buy and Sell Stock -II     | Medium     | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1667565685/                               |
-|   | Array             | Two Sum                                 | Easy       | https://leetcode.com/problems/two-sum                                                                                  |->done
+|   | Array             | Two Sum                                 | Easy       | https://leetcode.com/problems/two-sum                                                                                  |
 |   | Array             | Is Subsequence                          | Easy       | https://leetcode.com/problems/is-subsequence/submissions/1664711168/                                                   |
-|   | String            | Permutation in String                   | Medium     | https://leetcode.com/problems/permutation-in-string/submissions/1668638651/                                            |->done
-|   | Array             | Maximum Product Subarray                | Medium     | https://leetcode.com/problems/maximum-product-subarray/submissions/1668662045/                                         |->done
+|   | String            | Permutation in String                   | Medium     | https://leetcode.com/problems/permutation-in-string/submissions/1668638651/                                            |
+|   | Array             | Maximum Product Subarray                | Medium     | https://leetcode.com/problems/maximum-product-subarray/submissions/1668662045/                                         |
+|   | Array             | First Negative in every window          | Medium     | https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1                          |
 
 
 
