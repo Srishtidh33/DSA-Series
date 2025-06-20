@@ -58,7 +58,21 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array             | Is Subsequence                          | Easy       | https://leetcode.com/problems/is-subsequence/submissions/1664711168/                                                   |
 |   | String            | Permutation in String                   | Medium     | https://leetcode.com/problems/permutation-in-string/submissions/1668638651/                                            |
 |   | Array             | Maximum Product Subarray                | Medium     | https://leetcode.com/problems/maximum-product-subarray/submissions/1668662045/                                         |
-|   | Array             | First Negative in every window          | Medium     | https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1                          |
+|   | Array             | First Negative in every window          | Medium     | https://docs.google.com/document/d/1Vn93zWlLNgLnBhi9jQqgKzQLnIcw9s22PXRSn4anjlk/edit?tab=t.0                           |
+|   | Array             | Count Distinct Element                  | Medium     | https://docs.google.com/document/d/16vKR3erb1Ojo7UEir9lC1MBOL7xuyXyaRx4ipwTStkk/edit?usp=sharing                       |
+|   | Array             | Maximum Sum of distinct Subarrays       | Medium     | https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/submissions/1669424591/                  |
+|   | Array             | Subarray Product Less than k            | Medium     | https://leetcode.com/problems/subarray-product-less-than-k/submissions/1669568082/                                     |
+|   | Array             | Subarray with Length k with max peak    | Medium     | https://docs.google.com/document/d/18fjHE02BHWrXWznLif6xix5o0WXRjvpSEZVw9iI80p4/edit?usp=sharing                       |
+|   | Array             | Binary Search                           | Easy       | https://leetcode.com/problems/binary-search/submissions/1669781538/                                                    |
+|   | Array             | First and Last Postion in Sorted Array  | Medium     | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1670392534/          |->done
+|   | Array             | Peak Element in Mountain Array          | Medium     | https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/1670466272/                                   |->done
+|   | Array             | Find Minimum in Rotated Sorted Array    | Medium     | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1670756804/                             |->done
+|   | Array             | Found Occurences of an Element          | Medium     | https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/submissions/1670853735/                       |->done
+
+
+
+
+
 
 
 
