@@ -64,10 +64,13 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array             | Subarray Product Less than k            | Medium     | https://leetcode.com/problems/subarray-product-less-than-k/submissions/1669568082/                                     |
 |   | Array             | Subarray with Length k with max peak    | Medium     | https://docs.google.com/document/d/18fjHE02BHWrXWznLif6xix5o0WXRjvpSEZVw9iI80p4/edit?usp=sharing                       |
 |   | Array             | Binary Search                           | Easy       | https://leetcode.com/problems/binary-search/submissions/1669781538/                                                    |
-|   | Array             | First and Last Postion in Sorted Array  | Medium     | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1670392534/          |->done
-|   | Array             | Peak Element in Mountain Array          | Medium     | https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/1670466272/                                   |->done
-|   | Array             | Find Minimum in Rotated Sorted Array    | Medium     | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1670756804/                             |->done
-|   | Array             | Found Occurences of an Element          | Medium     | https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/submissions/1670853735/                       |->done
+|   | Array             | First and Last Postion in Sorted Array  | Medium     | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1670392534/          |
+|   | Array             | Peak Element in Mountain Array          | Medium     | https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/1670466272/                                   |
+|   | Array             | Find Minimum in Rotated Sorted Array    | Medium     | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1670756804/                             |
+|   | Array             | Found Occurences of an Element          | Medium     | https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/submissions/1670853735/                       |
+|   | Array             | Merge Interval                          | Medium     | https://leetcode.com/problems/merge-intervals/submissions/1671389589/                                                  |->done
+|   | Array             | Count Inversion                         | Medium     | 
+|   | Array             | Set Matrix Zeroes                       | Medium     | https://leetcode.com/problems/set-matrix-zeroes/submissions/1671442194/                                                |->done
 
 
 
