@@ -70,7 +70,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array             | Found Occurences of an Element          | Medium     | https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/submissions/1670853735/                       |
 |   | Array             | Merge Interval                          | Medium     | https://leetcode.com/problems/merge-intervals/submissions/1671389589/                                                  |->done
 |   | Array             | Count Inversion                         | Medium     | 
-|   | Array             | Set Matrix Zeroes                       | Medium     | https://leetcode.com/problems/set-matrix-zeroes/submissions/1671442194/                                                |->done
+|   | Array             | Set Matrix Zeroes                       | Medium     | https://leetcode.com/problems/set-matrix-zeroes/submissions/1671442194/  |->done
 
 
 
