@@ -84,7 +84,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | String      | Isogram or not                          | Basic     | https://www.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not-1587115620/1          |
 |   | String      | Reorganise String                       | Medium    | https://leetcode.com/problems/reorganize-string/submissions/1680387598/                          |
 |   | String      | Group Anagrams                          | Medium    | https://leetcode.com/problems/group-anagrams/submissions/1680388254/                             |
-|   | String      | 
+|   | String      | Find the index of first Occurence       | Easy      | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1680744070/|
 
 
 
