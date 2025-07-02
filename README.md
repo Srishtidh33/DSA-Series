@@ -18,7 +18,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | String      | Generate Valid Palindrome               | Medium    | https://leetcode.com/problems/generate-parentheses/description/                                  |  
 |   | String      | Power set                               | Medium    | https://www.geeksforgeeks.org/problems/power-set4302/1                                  | -> to do
 |   | String      | Longest Substring                       | Medium    | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/        |
-|   | String      | Permutation in String                   | Medium    | https://leetcode.com/problems/permutation-in-string/                                    | -> to do
+|   | String      | Permutation in String                   | Medium    | https://leetcode.com/problems/permutation-in-string/submissions/1683440282/                      |
 |   | Array       | Subsets                                 | Medium    | https://leetcode.com/problems/subsets/description/                                               | 
 |   | Array       | Subsets-II                              | Medium    | https://leetcode.com/problems/subsets-ii/description/                                            |  
 |   | Array       | Permutation                             | Medium    | https://leetcode.com/problems/permutations/description/                                          |  
@@ -86,6 +86,21 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | String      | Group Anagrams                          | Medium    | https://leetcode.com/problems/group-anagrams/submissions/1680388254/                             |
 |   | String      | Find the index of first Occurence       | Easy      | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1680744070/|
 |   | String      | String Compression                      | Medium    | https://leetcode.com/problems/string-compression/submissions/1683080653/                         |
+|   | String      | Permutation in String                   | Medium    | https://leetcode.com/problems/permutation-in-string/submissions/1683440282/                      |
+|   | Linked List | Count Linked List Nodes                 | Basic     | https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1                              |
+|   | Linked List | Print Linked List                       | Basic     | https://www.geeksforgeeks.org/problems/print-linked-list-elements/1                              |
+|   | Linked List | Reverse Linked List                     | Easy      | https://leetcode.com/problems/reverse-linked-list/submissions/1683559660/                        |
+|   | Linked List | Middle of the Linked List               | Easy      | https://leetcode.com/problems/middle-of-the-linked-list/submissions/1683622976/                  |
+|   | Linked List | Merge Two Sorted Lists                  | Easy      | https://leetcode.com/problems/merge-two-sorted-lists/submissions/1683712768/                     |
+|   | Linked List | Linked List Cycle                       | Easy      | https://leetcode.com/problems/linked-list-cycle/submissions/1683740279/                          |
+|   | Linked List | Intersection of two Linked List         | Easy      | https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1683768333/           |
+|   | Linked List | Swap Nodes in Pairs                     | Medium    | https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1683778847/                        |
+|   | Linked List | Remove Nth Node from End of list        | Medium    | https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1684079926/           | 
+|   | Linked List | Remove Duplicates from Sorted List      | Easy      | https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1684194843/         |
+
+
+
+
 
 
 
