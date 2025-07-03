@@ -97,6 +97,12 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Linked List | Swap Nodes in Pairs                     | Medium    | https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1683778847/                        |
 |   | Linked List | Remove Nth Node from End of list        | Medium    | https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1684079926/           | 
 |   | Linked List | Remove Duplicates from Sorted List      | Easy      | https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1684194843/         |
+|   | Linked List | Palindrome Linked List                  | Easy      | https://leetcode.com/problems/palindrome-linked-list/submissions/1684716152/                     |
+|   | Linked List | Delete Node in a Linked List            | Medium    | https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1684891278/               |
+|   | Linked List | Remove Duplicates from Unsorted List    | Easy      | https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1          |
+|   | Linked List | Add 1 to a Linked List Number           | Medium    | https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1            |
+
+
 
 
 
