@@ -101,6 +101,10 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Linked List | Delete Node in a Linked List            | Medium    | https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1684891278/               |
 |   | Linked List | Remove Duplicates from Unsorted List    | Easy      | https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1          |
 |   | Linked List | Add 1 to a Linked List Number           | Medium    | https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1            |
+|   | Linked List | Split a Linked List into two halves     | Easy      | https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/             |
+|   | Linked List | Reverse a Doubly Linked List            | Easy      | https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1                            |
+
+
 
 
 
