@@ -103,6 +103,8 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Linked List | Add 1 to a Linked List Number           | Medium    | https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1            |
 |   | Linked List | Split a Linked List into two halves     | Easy      | https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/             |
 |   | Linked List | Reverse a Doubly Linked List            | Easy      | https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1                            |
+|   | Linked List | Remove Nodes From Linked List           | Medium    | https://leetcode.com/problems/remove-nodes-from-linked-list/submissions/1687392151/              |
+
 
 
 
