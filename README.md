@@ -104,6 +104,13 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Linked List | Split a Linked List into two halves     | Easy      | https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/             |
 |   | Linked List | Reverse a Doubly Linked List            | Easy      | https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1                            |
 |   | Linked List | Remove Nodes From Linked List           | Medium    | https://leetcode.com/problems/remove-nodes-from-linked-list/submissions/1687392151/              |
+|   | Linked List | Copy List with Random Pointer           | Medium    | https://leetcode.com/problems/copy-list-with-random-pointer/submissions/1688105564/              |
+|   | Linked List | Double a Number in Linked List          | Medium    | https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/submissions/1688455744/|
+|   | Linked List | Remove Linked List Elements             | Easy      | https://leetcode.com/problems/remove-linked-list-elements/submissions/1688512554/                |
+|   | Linked List | Segregate Even and Odd Nodes            | Medium    | https://www.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1       |
+|   | Linked List | Odd Even Linked List                    | Medium    | https://leetcode.com/problems/odd-even-linked-list/submissions/1688600202/                       |
+|   | Linked List | Rotate Doubly Linked List               | Easy      | https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1                    |
+
 
 
 
