@@ -112,6 +112,8 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Linked List | Rotate Doubly Linked List               | Easy      | https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1                    |
 |   | Linked List | Flattening a Linked List                | Medium    | https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1                                |
 |   | Linked List | Delete Alternate Nodes                  | Easy      | https://www.geeksforgeeks.org/problems/delete-alternate-nodes/0                                  |
+|   | Linked List | Flatten a Multilevel Doubly Linked List | Medium    | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/submissions/1689964063/    |
+
 
 
 
