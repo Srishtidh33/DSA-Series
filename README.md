@@ -113,6 +113,17 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Linked List | Flattening a Linked List                | Medium    | https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1                                |
 |   | Linked List | Delete Alternate Nodes                  | Easy      | https://www.geeksforgeeks.org/problems/delete-alternate-nodes/0                                  |
 |   | Linked List | Flatten a Multilevel Doubly Linked List | Medium    | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/submissions/1689964063/    |
+|   | Tree        | Binary Tree Preorder Traversal          | Easy      | https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1690756444/             |
+|   | Tree        | Binary Tree Inorder Traversal           | Easy      | https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1690764497/              |
+|   | Tree        | Binary Tree Postorder Traversal         | Easy      | https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1690776041/            |
+|   | Tree        | Binary Tree Level Order Traversal       | Medium    | https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1690987689/          |
+|   | Tree        | Binary Tree Level Order Traversal-II    | Medium    | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/1691161266/       |
+|   | Tree        | Maximum Depth of Binary Tree            | Easy      | https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1691172536/               |
+|   | Tree        | Count Leaves in Binary Tree             | Easy      | https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1                             |
+|   | Tree        | Count Number of Nodes in a Binary Tree  | Medium    | https://www.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1                  |
+|   | Tree        | Sum of Binary Tree                      | Basic     | https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1                                      |
+|   | Tree        | Binary Tree Maximum Path Sum            | Hard      | https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1691868646/               |
+
 
 
 
