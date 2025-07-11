@@ -123,6 +123,10 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Count Number of Nodes in a Binary Tree  | Medium    | https://www.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1                  |
 |   | Tree        | Sum of Binary Tree                      | Basic     | https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1                                      |
 |   | Tree        | Binary Tree Maximum Path Sum            | Hard      | https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1691868646/               |
+|   | Tree        | Same Tree                               | Easy      | https://leetcode.com/problems/same-tree/submissions/1693120096/                                  |
+|   | Tree        | Subtree of Another Tree                 | Easy      | https://leetcode.com/problems/subtree-of-another-tree/submissions/1693188001/                    |
+|   | Tree        | Diameter of a Binary Tree               | Easy      | https://leetcode.com/problems/diameter-of-binary-tree/submissions/1693284454/                    |
+
 
 
 
