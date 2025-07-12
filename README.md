@@ -127,6 +127,8 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Subtree of Another Tree                 | Easy      | https://leetcode.com/problems/subtree-of-another-tree/submissions/1693188001/                    |
 |   | Tree        | Diameter of a Binary Tree               | Easy      | https://leetcode.com/problems/diameter-of-binary-tree/submissions/1693284454/                    |
 |   | Tree        | Invert Binary Tree                      | Easy      | https://leetcode.com/problems/invert-binary-tree/submissions/1694425884/                         |
+|   | Tree        | Root Equals Sum of Children             | Easy      | https://leetcode.com/problems/root-equals-sum-of-children/submissions/1695010394/                |
+
 
 
 
