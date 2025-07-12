@@ -126,6 +126,8 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Same Tree                               | Easy      | https://leetcode.com/problems/same-tree/submissions/1693120096/                                  |
 |   | Tree        | Subtree of Another Tree                 | Easy      | https://leetcode.com/problems/subtree-of-another-tree/submissions/1693188001/                    |
 |   | Tree        | Diameter of a Binary Tree               | Easy      | https://leetcode.com/problems/diameter-of-binary-tree/submissions/1693284454/                    |
+|   | Tree        | Invert Binary Tree                      | Easy      | https://leetcode.com/problems/invert-binary-tree/submissions/1694425884/                         |
+
 
 
 
