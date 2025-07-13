@@ -134,6 +134,9 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Binary Tree from Inorder & Preorder     | Medium    | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1696239231/|
 |   | Tree        | Sum Tree                                | Easy      | https://www.geeksforgeeks.org/problems/sum-tree/1                                                |
 |   | Tree        | Path Sum                                | Easy      | https://leetcode.com/problems/path-sum/submissions/1696351443/                                   |
+|   | Tree        | Transform to Sum Tree                   | Easy      | https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1                                   |
+|   | Tree        | Sum of nodes on the longest path        | Medium    | https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1                  |
+|   | Tree        | Largest subtree sum in a tree           | Medium    | https://www.geeksforgeeks.org/problems/largest-subtree-sum-in-a-tree/1                           |
 
 
 
