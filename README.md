@@ -128,6 +128,13 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Diameter of a Binary Tree               | Easy      | https://leetcode.com/problems/diameter-of-binary-tree/submissions/1693284454/                    |
 |   | Tree        | Invert Binary Tree                      | Easy      | https://leetcode.com/problems/invert-binary-tree/submissions/1694425884/                         |
 |   | Tree        | Root Equals Sum of Children             | Easy      | https://leetcode.com/problems/root-equals-sum-of-children/submissions/1695010394/                |
+|   | Tree        | Preorder Traversal                      | Easy      | https://www.geeksforgeeks.org/problems/preorder-traversal/1                                      |
+|   | Tree        | Binary Tree Zigzag Level Order          | Medium    | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1695529864/   |
+|   | Tree        | Balanced Binary Tree                    | Easy      | https://leetcode.com/problems/balanced-binary-tree/submissions/1695614556/                       |
+|   | Tree        | Binary Tree from Inorder & Preorder     | Medium    | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1696239231/|
+|   | Tree        | Sum Tree                                | Easy      | https://www.geeksforgeeks.org/problems/sum-tree/1                                                |
+|   | Tree        | Path Sum                                | Easy      | https://leetcode.com/problems/path-sum/submissions/1696351443/                                   |
+
 
 
 
