@@ -141,6 +141,12 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Vertical Order Traversal of a Binary T  | Hard      | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1697553728/  |
 |   | Tree        | Bottom View of Binary Tree              | Medium    | https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1                              |
 |   | Tree        | Validate Binary Search Tree             | Medium    | https://leetcode.com/problems/validate-binary-search-tree/submissions/1698316763/                |
+|   | Tree        | Populate Inorder Successor of all nodes | Medium    | https://www.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1                |
+|   | Tree        | Kth Smallest Element in a BST           | Medium    | https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1699131725/              |
+|   | Tree        | Kth Largest Element in a BST            | Medium    | https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1                              |
+|   | Tree        | Balance a BST                           | Medium    | https://leetcode.com/problems/balance-a-binary-search-tree/submissions/1699204814/               |
+|   | Tree        | Minimum Element in  BST                 | Basic     | https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1                                  |
+
 
 
 
