@@ -137,6 +137,12 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Transform to Sum Tree                   | Easy      | https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1                                   |
 |   | Tree        | Sum of nodes on the longest path        | Medium    | https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1                  |
 |   | Tree        | Largest subtree sum in a tree           | Medium    | https://www.geeksforgeeks.org/problems/largest-subtree-sum-in-a-tree/1                           |
+|   | Tree        | Top View of Binary Tree                 | Medium    | https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1                                 |
+|   | Tree        | Vertical Order Traversal of a Binary T  | Hard      | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1697553728/  |
+|   | Tree        | Bottom View of Binary Tree              | Medium    | https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1                              |
+|   | Tree        | Validate Binary Search Tree             | Medium    | https://leetcode.com/problems/validate-binary-search-tree/submissions/1698316763/                |
+
+
 
 
 
