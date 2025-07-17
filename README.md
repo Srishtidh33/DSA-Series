@@ -146,6 +146,12 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Kth Largest Element in a BST            | Medium    | https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1                              |
 |   | Tree        | Balance a BST                           | Medium    | https://leetcode.com/problems/balance-a-binary-search-tree/submissions/1699204814/               |
 |   | Tree        | Minimum Element in  BST                 | Basic     | https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1                                  |
+|   | Tree        | Lowest Common Ancestor of a BST         | Medium    | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1699925470/|
+|   | Tree        | Maximum Binary Tree                     | Medium    | https://leetcode.com/problems/maximum-binary-tree/submissions/1700175751/                        |
+|   | Tree        | Max and min element in Binary Tree      | Easy      | https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/0                      |
+|   | Tree        | Search in a Binary Search Tree          | Easy      | https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1700783025/             |~
+|
+
 
 
 
