@@ -150,7 +150,9 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Maximum Binary Tree                     | Medium    | https://leetcode.com/problems/maximum-binary-tree/submissions/1700175751/                        |
 |   | Tree        | Max and min element in Binary Tree      | Easy      | https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/0                      |
 |   | Tree        | Search in a Binary Search Tree          | Easy      | https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1700783025/             |~
-|
+|   | Tree        | Insert into a Binary Search Tree        | Medium    | https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1701228403/           |
+|   | Tree        | Convert Sorted Array to BST             | Easy      | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/submissions/1701271555/ |
+
 
 
 
