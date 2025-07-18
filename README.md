@@ -152,6 +152,11 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Search in a Binary Search Tree          | Easy      | https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1700783025/             |~
 |   | Tree        | Insert into a Binary Search Tree        | Medium    | https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1701228403/           |
 |   | Tree        | Convert Sorted Array to BST             | Easy      | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/submissions/1701271555/ |
+|   | Tree        | Predecessor and Successor               | Medium    | https://www.geeksforgeeks.org/problems/predecessor-and-successor/1                               |
+|   | Tree        | Binary Tree to BST                      | Easy      | https://www.geeksforgeeks.org/problems/binary-tree-to-bst/1                                      |
+|   | Tree        | Check whether BST contain Dead end      | Medium    | https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1                     |
+|   | Tree        | Merge two BSTs                          | Medium    | https://www.geeksforgeeks.org/problems/merge-two-bst-s/1                                         |
+
 
 
 
