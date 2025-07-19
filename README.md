@@ -9,7 +9,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 
 ## 📚 Problem List
 
-| # | Topic             |Problem Title                            | Difficulty |                              LeetCode Solution Link 🔗                                    |
+| # | Topic       |         Problem Title                   | Difficulty|                               LeetCode Solution Link 🔗                                         |
 |---|-------------|-----------------------------------------|-----------|--------------------------------------------------------------------------------------------------|
 | 1 | Matrix      | Set Matrix Zeroes                       | Easy      | https://leetcode.com/problems/set-matrix-zeroes/description/                                     |
 | 2 | Array       | Reverse an array                        | Easy      | https://docs.google.com/document/d/1ICDsRE5JKO9zAfDqlUz91tlkDT5pfWW3-DlMRSjTJjI/edit?usp=sharing |            
@@ -156,6 +156,14 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Binary Tree to BST                      | Easy      | https://www.geeksforgeeks.org/problems/binary-tree-to-bst/1                                      |
 |   | Tree        | Check whether BST contain Dead end      | Medium    | https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1                     |
 |   | Tree        | Merge two BSTs                          | Medium    | https://www.geeksforgeeks.org/problems/merge-two-bst-s/1                                         |
+|   | Stack       | Reverse Using Stack                     | Easy      | https://www.geeksforgeeks.org/problems/reverse-a-string-using-stack/1                            |
+|   | Stack       | Two Stacks ina n Array                  | Easy      | https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1                        | 
+|   | Stack       | Celebrity Problem                       | Medium    | https://www.geeksforgeeks.org/problems/the-celebrity-problem/1                                   |
+|   | Stack       | Stack using two queues                  | Easy      | https://www.geeksforgeeks.org/problems/stack-using-two-queues/1                                  |~
+|   | Stack       | Implement Stack using Queues            | Easy      | https://leetcode.com/problems/implement-stack-using-queues/submissions/1703364552/               |
+|   | Stack       | Implement Queue using Stacks            | Easy      | https://leetcode.com/problems/implement-queue-using-stacks/submissions/1703375911/               |
+|   | Stack       | Largest Rectangle in Histogram          | Hard      | https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1703766031/             |
+
 
 
 
