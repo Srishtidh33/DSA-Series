@@ -159,10 +159,15 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Stack       | Reverse Using Stack                     | Easy      | https://www.geeksforgeeks.org/problems/reverse-a-string-using-stack/1                            |
 |   | Stack       | Two Stacks ina n Array                  | Easy      | https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1                        | 
 |   | Stack       | Celebrity Problem                       | Medium    | https://www.geeksforgeeks.org/problems/the-celebrity-problem/1                                   |
-|   | Stack       | Stack using two queues                  | Easy      | https://www.geeksforgeeks.org/problems/stack-using-two-queues/1                                  |~
+|   | Stack       | Stack using two queues                  | Easy      | https://www.geeksforgeeks.org/problems/stack-using-two-queues/1                                  |
 |   | Stack       | Implement Stack using Queues            | Easy      | https://leetcode.com/problems/implement-stack-using-queues/submissions/1703364552/               |
 |   | Stack       | Implement Queue using Stacks            | Easy      | https://leetcode.com/problems/implement-queue-using-stacks/submissions/1703375911/               |
 |   | Stack       | Largest Rectangle in Histogram          | Hard      | https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1703766031/             |
+|   | Queue       | Queue Reversal                          | Easy      | https://www.geeksforgeeks.org/problems/queue-reversal/1                                          |~
+|   | Queue       | Reverse first K of a Queue              | Easy      | https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1                       |
+|   | Stack       | Online Stock Span                       | Medium    | https://leetcode.com/problems/online-stock-span/submissions/1705121524/                          |
+
+
 
 
 
