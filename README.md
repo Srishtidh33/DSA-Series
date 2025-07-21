@@ -163,9 +163,13 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Stack       | Implement Stack using Queues            | Easy      | https://leetcode.com/problems/implement-stack-using-queues/submissions/1703364552/               |
 |   | Stack       | Implement Queue using Stacks            | Easy      | https://leetcode.com/problems/implement-queue-using-stacks/submissions/1703375911/               |
 |   | Stack       | Largest Rectangle in Histogram          | Hard      | https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1703766031/             |
-|   | Queue       | Queue Reversal                          | Easy      | https://www.geeksforgeeks.org/problems/queue-reversal/1                                          |~
+|   | Queue       | Queue Reversal                          | Easy      | https://www.geeksforgeeks.org/problems/queue-reversal/1                                          |
 |   | Queue       | Reverse first K of a Queue              | Easy      | https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1                       |
 |   | Stack       | Online Stock Span                       | Medium    | https://leetcode.com/problems/online-stock-span/submissions/1705121524/                          |
+|   | Stack       | Next Greater Element-I                  | Easy      | https://leetcode.com/problems/next-greater-element-i/submissions/1705521583/                     |~
+|   | Stack       | Smaller on Left                         | Medium    | https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1                             |
+|   | Stack       | Min Stack                               | Medium    | https://leetcode.com/problems/min-stack/submissions/1706276283/                                  |
+|   | Stack       | Next Greater Element-II                 | Medium    | https://leetcode.com/problems/next-greater-element-ii/submissions/1706307416/                    |
 
 
 
