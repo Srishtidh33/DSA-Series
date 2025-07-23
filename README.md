@@ -157,7 +157,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Check whether BST contain Dead end      | Medium    | https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1                     |
 |   | Tree        | Merge two BSTs                          | Medium    | https://www.geeksforgeeks.org/problems/merge-two-bst-s/1                                         |
 |   | Stack       | Reverse Using Stack                     | Easy      | https://www.geeksforgeeks.org/problems/reverse-a-string-using-stack/1                            |
-|   | Stack       | Two Stacks ina n Array                  | Easy      | https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1                        | 
+|   | Stack       | Two Stacks in an Array                  | Easy      | https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1                        | 
 |   | Stack       | Celebrity Problem                       | Medium    | https://www.geeksforgeeks.org/problems/the-celebrity-problem/1                                   |
 |   | Stack       | Stack using two queues                  | Easy      | https://www.geeksforgeeks.org/problems/stack-using-two-queues/1                                  |
 |   | Stack       | Implement Stack using Queues            | Easy      | https://leetcode.com/problems/implement-stack-using-queues/submissions/1703364552/               |
@@ -170,8 +170,11 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Stack       | Smaller on Left                         | Medium    | https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1                             |
 |   | Stack       | Min Stack                               | Medium    | https://leetcode.com/problems/min-stack/submissions/1706276283/                                  |
 |   | Stack       | Next Greater Element-II                 | Medium    | https://leetcode.com/problems/next-greater-element-ii/submissions/1706307416/                    |
-|   | Stack       | Trapping Rain Water                     | Hard      | https://leetcode.com/problems/trapping-rain-water/submissions/1707255618/                        |~
+|   | Stack       | Trapping Rain Water                     | Hard      | https://leetcode.com/problems/trapping-rain-water/submissions/1707255618/                        |
 |   | Linked List | LRU Cache                               | Medium    | https://leetcode.com/problems/lru-cache/submissions/1707556793/                                  |->to get
+|   | Array       | Next Permutation                        | Medium    | https://leetcode.com/problems/next-permutation/submissions/1575971301/                           |~
+|   | Array       | Pascal's Triangle                       | Easy      | https://leetcode.com/problems/pascals-triangle/submissions/1574377213/                           |
+
 
 
 
