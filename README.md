@@ -172,8 +172,10 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Stack       | Next Greater Element-II                 | Medium    | https://leetcode.com/problems/next-greater-element-ii/submissions/1706307416/                    |
 |   | Stack       | Trapping Rain Water                     | Hard      | https://leetcode.com/problems/trapping-rain-water/submissions/1707255618/                        |
 |   | Linked List | LRU Cache                               | Medium    | https://leetcode.com/problems/lru-cache/submissions/1707556793/                                  |->to get
-|   | Array       | Next Permutation                        | Medium    | https://leetcode.com/problems/next-permutation/submissions/1575971301/                           |~
+|   | Array       | Next Permutation                        | Medium    | https://leetcode.com/problems/next-permutation/submissions/1575971301/                           |
 |   | Array       | Pascal's Triangle                       | Easy      | https://leetcode.com/problems/pascals-triangle/submissions/1574377213/                           |
+|   | Graph       | Rotting Orange                          | Medium    | https://leetcode.com/problems/rotting-oranges/submissions/1709590649/                            |
+
 
 
 
