@@ -175,6 +175,8 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array       | Next Permutation                        | Medium    | https://leetcode.com/problems/next-permutation/submissions/1575971301/                           |
 |   | Array       | Pascal's Triangle                       | Easy      | https://leetcode.com/problems/pascals-triangle/submissions/1574377213/                           |
 |   | Graph       | Rotting Orange                          | Medium    | https://leetcode.com/problems/rotting-oranges/submissions/1709590649/                            |
+|   | DP          | 0-1 Knapsack Problem                    | Medium    | https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1                                |
+
 
 
 
