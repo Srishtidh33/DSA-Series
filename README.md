@@ -178,6 +178,8 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | DP          | 0-1 Knapsack Problem                    | Medium    | https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1                                |
 |   | DP          | Longest Common Subsequence              | Medium    | https://leetcode.com/problems/longest-common-subsequence/submissions/1713557535/                 |
 |   | DP          | Subset Sum Problem                      | Medium    | https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1                           |
+|   | DP          | Indexes of Subarray Sum                 | Medium    | https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&company=Amazon&sortBy=submissions|
+
 
 
 
