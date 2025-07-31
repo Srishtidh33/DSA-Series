@@ -181,6 +181,7 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | DP          | Indexes of Subarray Sum                 | Medium    | https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&company=Amazon&sortBy=submissions|
 |   | Greedy      | Minimum Jumps                           | Medium    | https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?page=1&company=Amazon&sortBy=submissions|
 |   | Array       | Array Duplicates                        | Easy      | https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&company=Amazon&sortBy=submissions|
+|   | Array       |  Kth Smallest Element                   | Medium    | https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?page=1&company=Amazon&sortBy=submissions|
 
 
 
