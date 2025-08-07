@@ -182,6 +182,9 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Greedy      | Minimum Jumps                           | Medium    | https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?page=1&company=Amazon&sortBy=submissions|
 |   | Array       | Array Duplicates                        | Easy      | https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&company=Amazon&sortBy=submissions|
 |   | Array       |  Kth Smallest Element                   | Medium    | https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?page=1&company=Amazon&sortBy=submissions|
+|   | Linked List | Remove loop from Linked List            | Medium    | https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1?page=1&company=Amazon&sortBy=submissions|
+|   | Array       | Floor in a Sorted Array                 | Easy      | https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1?page=2&company=Amazon&sortBy=submissions|
+
 
 
 
