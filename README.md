@@ -156,6 +156,8 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Tree        | Binary Tree to BST                      | Easy      | https://www.geeksforgeeks.org/problems/binary-tree-to-bst/1                                      |
 |   | Tree        | Check whether BST contain Dead end      | Medium    | https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1                     |
 |   | Tree        | Merge two BSTs                          | Medium    | https://www.geeksforgeeks.org/problems/merge-two-bst-s/1                                         |
+|   | Tree        | Left View of Binary Tree                | Easy      | https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1?page=1&company=Amazon&sortBy=submissions|
+|   | Tree        | Right View of Binary Tree               | Medium    | https://leetcode.com/problems/binary-tree-right-side-view/submissions/1730227845/                |
 |   | Stack       | Reverse Using Stack                     | Easy      | https://www.geeksforgeeks.org/problems/reverse-a-string-using-stack/1                            |
 |   | Stack       | Two Stacks in an Array                  | Easy      | https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1                        | 
 |   | Stack       | Celebrity Problem                       | Medium    | https://www.geeksforgeeks.org/problems/the-celebrity-problem/1                                   |
@@ -184,6 +186,9 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array       |  Kth Smallest Element                   | Medium    | https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?page=1&company=Amazon&sortBy=submissions|
 |   | Linked List | Remove loop from Linked List            | Medium    | https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1?page=1&company=Amazon&sortBy=submissions|
 |   | Array       | Floor in a Sorted Array                 | Easy      | https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1?page=2&company=Amazon&sortBy=submissions|
+|   | Array       | Two sum-Pairs with 0 sum                | Easy      | https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1?page=2&company=Amazon&sortBy=submissions|
+|   | Tree        | Boundary Traversal                      | Medium    | https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1?page=2&company=Amazon&sortBy=submissions|
+|   
 
 
 
