@@ -188,7 +188,10 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array       | Floor in a Sorted Array                 | Easy      | https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1?page=2&company=Amazon&sortBy=submissions|
 |   | Array       | Two sum-Pairs with 0 sum                | Easy      | https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1?page=2&company=Amazon&sortBy=submissions|
 |   | Tree        | Boundary Traversal                      | Medium    | https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1?page=2&company=Amazon&sortBy=submissions|
-|   
+|   | Array       | Union of 2 Sorted Arrays                | Medium    | https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?page=2&company=Amazon&sortBy=submissions|
+|   | DP          | Maximum Product Subarray                | Medium    | https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1?page=2&company=Amazon&sortBy=submissions|
+|   | Array       | Smallest Positive Missing               | Medium    | https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1?page=2&company=Amazon&sortBy=submissions|
+
 
 
 
