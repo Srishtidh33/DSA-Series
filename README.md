@@ -193,6 +193,10 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array       | Smallest Positive Missing               | Medium    | https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1?page=2&company=Amazon&sortBy=submissions|
 |   | Array       | Largest subarray with 0 sum             | Medium    | https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1?page=2&company=Amazon&sortBy=submissions |
 |   | String      | Reverse Words in  String                | Medium    | https://leetcode.com/problems/reverse-words-in-a-string/submissions/1741301029/                               |
+|   | String      | Reverse Words                           | Medium    | https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1?page=2&company=Amazon&sortBy=submissions|
+|   | Array       | Prime Number                            | Easy      | https://www.geeksforgeeks.org/problems/prime-number2314/1?page=2&company=Amazon&sortBy=submissions            |
+|   | Array       | Frequencies in a Limited Array          | Easy      | https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1?page=3&company=Amazon&sortBy=submissions|
+
 
 
 
