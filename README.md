@@ -196,6 +196,10 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | String      | Reverse Words                           | Medium    | https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1?page=2&company=Amazon&sortBy=submissions|
 |   | Array       | Prime Number                            | Easy      | https://www.geeksforgeeks.org/problems/prime-number2314/1?page=2&company=Amazon&sortBy=submissions            |
 |   | Array       | Frequencies in a Limited Array          | Easy      | https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1?page=3&company=Amazon&sortBy=submissions|
+|   | Array       | Find All Duplicate in an array          | Medium    | https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/1746415208/                         |
+|   | Array       | Move All Zeroes to End                  | Easy      | https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1?page=3&company=Amazon&sortBy=submissions|
+
+
 
 
 
