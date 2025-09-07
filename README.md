@@ -200,6 +200,8 @@ Here you'll find my C++ implementations for various LeetCode problems, organized
 |   | Array       | Move All Zeroes to End                  | Easy      | https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1?page=3&company=Amazon&sortBy=submissions|
 |   | Linked List | Palindrome Linked List                  | Medium    | https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=3&company=Amazon&sortBy=submissions|
 |   | Array       | Find Peak element                       | Medium    | https://leetcode.com/problems/find-peak-element/submissions/1757391058/                                       |
+|   | Matrix      | Row with max 1s                         | Medium    | https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1?page=3&company=Amazon&sortBy=submissions         |
+
 
 
 
